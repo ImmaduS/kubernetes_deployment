@@ -1,4 +1,4 @@
-**ImmaduS/ImmaduS**  
+**Immadus/Immadus**  
 
 The project submission due date ( Thursday at 9AM) 
 Expectations: not only complete project, understand concepts to elborate on it, explain various concepts & scenarios. provide documentation which outlines step-by-step instructions ( provide pre-requisites, step by step instructions) in the Readme file   
